@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-na41e2.makosi-testing.com/sitemap.xml
